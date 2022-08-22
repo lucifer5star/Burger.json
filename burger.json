@@ -1,7 +1,7 @@
 {
 "category":[
-  {"name":"Pizza", "url":"/pizza"},
-  {"name":"Burger", "url":"/burger"},
-  {"name":"Drinks", "url":"/drinks"}
+  {"name":"Veg Burger", "url":"/vegpizza"},
+  {"name":"Non-Veg Burger", "url":"/non-vegburger"},
+  {"name":"Pizza Burger", "url":"/pizzaburger"}
 ]
 }
